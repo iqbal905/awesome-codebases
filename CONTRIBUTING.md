@@ -10,5 +10,6 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive. You can use the "description" section of the repository.
 - Check your spelling and grammar.
+- If the implementation is easy to explain, it may be a good idea
 
 Thank you for your suggestions!
